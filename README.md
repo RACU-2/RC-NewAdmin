@@ -23,11 +23,10 @@ in server.cfg =
     start RC-DeliveryJob
 		start rsb_broadcast
 
-# Thanks for downloading this Script :)
-# Please give me a feedback
-||||||||||||||||||||||||||||||
-<< PRO-VERSION COOMING SOON >>
-||||||||||||||||||||||||||||||
+
+
+ # << PRO-VERSION COOMING SOON >>
+
 More informations finding on my Discord
 In pro version is includet more features and new UI design
 # DISCORD: https://discord.gg/PqVdjxK2a
