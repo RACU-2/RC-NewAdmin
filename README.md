@@ -14,9 +14,10 @@ https://streamable.com/bjpycd
 
 # Install: 
 
-in server.cfg =	
-    start RC-DeliveryJob
-		start rsb_broadcast
+in server.cfg =
+
+start RC-DeliveryJob
+start rsb_broadcast
 
 
 
