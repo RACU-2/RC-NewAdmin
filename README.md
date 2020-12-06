@@ -1,10 +1,5 @@
-# RC-NewAdmin
+# RC-NewAdmin VERSION: 1.0.0
 
-||||||||||||||||||||||||||
------- RACU SCRIPTS ------
-||||||||||||||||||||||||||
-VERSION: 1.0.0
-SCRIPT: RC-NewAdmin
 
 # Features:
 - Give Cash
