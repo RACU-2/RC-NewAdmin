@@ -16,7 +16,7 @@ https://streamable.com/bjpycd
 
 in server.cfg =
 
-start RC-DeliveryJob
+start RC-NewAdminMenu
 
 start rsb_broadcast
 
